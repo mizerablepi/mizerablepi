@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muaaz Shaikh
-- 👀 I’m interested in Data Analytics/Science
-- 🌱 I’m currently learning Python for Data Science
-- 👯 Looking for an intership opportunity in Data Analysis
+- 👀 I’m interested in Data Analytics/Engineering
+- 🌱 I’m currently learning Python for Data Engineering
+- 👯 Looking for an intership opportunity in Data Analysis/Engineering
 - 📫 Reach me at mizerablepi@gmail.com / msajjadshaikh@acpce.ac.in
 
 <!---

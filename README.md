@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muaaz Shaikh
-- 👀 I’m interested in Software Engineering Data Engineering
+- 👀 I’m interested in Software Engineering/ Data Engineering
 - 🌱 I’m currently learning Python for Data Engineering and full stack with JavaScript
 - 👯 Looking for an intership opportunity in Data Engineering/ Software Engineering
 - 📫 Reach me at mizerablepi@gmail.com / msajjadshaikh@acpce.ac.in

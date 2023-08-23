@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muaaz Shaikh
 - 👀 I’m interested in Software Engineering/ Data Engineering
 - 🌱 I’m currently learning Full Stack Development with JavaScript and Python for Data Engineering
-- 👯 Looking for an job/intership opportunity in Data Engineering/ Software Engineering
+- 👯 Looking for an job/internship opportunity in Data Engineering/ Software Engineering
 - 📫 Reach me at mizerablepi@gmail.com / msajjadshaikh@acpce.ac.in
 
 <!---
